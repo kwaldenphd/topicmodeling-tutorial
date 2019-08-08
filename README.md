@@ -27,7 +27,7 @@ As we’ll explore later in this tutorial, the more robust topic modeling tools 
 
 ## Getting Data
 
-Download the "Topic_Modeling_Corpus" compressed zip folder in this Repo to your Desktop. Extract the folder contents.
+Download the "Files" compressed zip folder in this Repo to your Desktop. Extract the folder contents.
 
 ## Launching GTMT
 
